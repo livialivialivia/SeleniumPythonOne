@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/interviewer/WorkPython/SeleniumPythonOne/test_case/BaiDuSearch.py", line 5, in <module>
+    from selenium import webdriver
+ImportError: No module named selenium
+Traceback (most recent call last):
+  File "/Users/interviewer/WorkPython/SeleniumPythonOne/test_case/BaiDuSet.py", line 5, in <module>
+    from selenium import webdriver
+ImportError: No module named selenium
